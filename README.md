@@ -17,10 +17,5 @@
 - Scikit-learn
 - NLP preprocessing (Tokenizer, Padding)
 
-## 📊 Performance
-
-- ✅ **Accuracy**: ~77%
-- 📈 **Model Evaluation**: Detailed classification report with per-class precision, recall, and F1-scores
-- ⚖️ Balanced performance across 24 job roles
 
 📂 Dataset Download: [Click here to access the dataset](https://drive.google.com/file/d/1Mi5PjjHPgkRIThdf8KPjoQQwT2hnDIyc/view?usp=sharing)
