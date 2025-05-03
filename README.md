@@ -1,4 +1,4 @@
-# resume2role: Intelligent Resume Classification for Recruitment Platforms
+# Resume2role: Intelligent Resume Classification for Recruitment Platforms
 
 `resume2role` is a deep learning-powered application that classifies resumes into relevant job roles such as IT, Sales, Business Development, Healthcare, etc. It is designed to assist hiring platforms in automating resume screening and enhancing job recommendation accuracy.
 
